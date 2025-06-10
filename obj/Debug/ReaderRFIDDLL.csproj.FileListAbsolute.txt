@@ -1,0 +1,11 @@
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\bin\Debug\ReaderRFIDDLL.dll
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\bin\Debug\ReaderRFIDDLL.pdb
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\obj\Debug\ReaderRFIDDLL.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\obj\Debug\ReaderRFIDDLL.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\obj\Debug\ReaderRFIDDLL.dll
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\obj\Debug\ReaderRFIDDLL.pdb
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\bin\Debug\PCSC.dll
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\bin\Debug\PCSC.pdb
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\bin\Debug\PCSC.xml
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\obj\Debug\ReaderRFIDDLL.csproj.CopyComplete
+D:\Desenvolvimento\Ferramentas C#\ReaderRFIDDLL\bin\Debug\RGiesecke.DllExport.Metadata.dll
